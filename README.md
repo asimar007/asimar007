@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **https://www.linkedin.com/in/asimar007/**
+- 📫 How to reach me [Linkendin](https://www.linkedin.com/in/asimar007/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
