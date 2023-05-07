@@ -51,6 +51,12 @@
   <a href = "https://code.visualstudio.com/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a>  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
 
 
+## 📈 GitHub Stats  
+
+<p align="center">
+	
+  [![](https://github-readme-activity-graph.cyclic.app/graph?username=asimar007&theme=react-dark)](https://github.com/asimar007/github-readme-activity-graph)
+</p>
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asim_ar007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimar007/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/asim_ar007) 
