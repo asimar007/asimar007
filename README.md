@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=asimar007" width=160px/>
   <br>
   
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/asimar007?tab=repositories)
 
