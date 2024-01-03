@@ -11,6 +11,8 @@
   <br>
   
 - 🌱 I’m currently learning **Blockchain**
+  
+- 👯 I’m looking to collaborate on **Open source Projects.**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/asimar007?tab=repositories)
 
