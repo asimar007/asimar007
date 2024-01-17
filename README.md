@@ -1,3 +1,5 @@
+
+
 <h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=FFEA00&size=25&lines=Hello+There!!!..">
@@ -38,15 +40,26 @@
 </div>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asimar007&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asimar007&theme=2077&utcOffset=6)
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asimar007&theme=2077" alt="GitHub Stats" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asimar007&theme=2077&utcOffset=6" alt="Productive Time" width="400"/>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asimar007&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/asimar007/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=asimar007&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=asimar007&theme=dracula)](https://github.com/asimar007/github-profile-trophy)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/asimar007/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimar007&layout=compact&theme=algolia&langs_count=20&hide_border=true" alt="Top Languages" />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=asimar007&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -59,15 +72,22 @@
  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)   ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![AWS Cloud](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)     
 
-<a href = "https://www.linux.org/" target="_blank"> <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a> <a href = "#" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"><a href = "https://www.linux.org/" target="_blank"> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" alt="Linux"></a></a>  <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
-
+<div>
+<a href="https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
+<a href="#" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></a>
+<a href="https://www.linux.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" alt="Linux"></a>
+<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+</div>
 
 ## 📈 GitHub Stats  
 
 <p align="center">
 	
-  ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asimar007&bg_color=91ebfd&color=4210f4&line=f8240d&point=403d3d&area=true&hide_border=true)
+  ![Asim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asimar007&bg_color=91ebfd&color=4210f4&line=f8240d&point=403d3d&area=true&hide_border=true)
 </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=asimar007&theme=dracula)](https://github.com/asimar007/github-profile-trophy)
+
 
 ## 🌐Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asim_ar007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimar007/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/asim_ar007) 
