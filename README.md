@@ -32,9 +32,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimar007&theme=2077)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimar007&theme=2077)
+<div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimar007&theme=2077" alt="Repos per Language" width="400"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimar007&theme=2077" alt="Most Commit Language" width="400"/>
+</div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimar007&theme=2077)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asimar007&theme=2077)
 
