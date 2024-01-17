@@ -1,5 +1,3 @@
-
-
 <h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=FFEA00&size=25&lines=Hello+There!!!..">
@@ -39,8 +37,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimar007&theme=2077" alt="Most Commit Language" width="400"/>
 </div>
 
-
-
 <div>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asimar007&theme=2077" alt="GitHub Stats" width="400"/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asimar007&theme=2077&utcOffset=6" alt="Productive Time" width="400"/>
@@ -73,11 +69,25 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)     
 
 <div>
-<a href="https://www.linux.org/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux"></a>
-<a href="#" target="_blank"><img height="40" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg"></a>
-<a href="https://www.linux.org/" target="_blank"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" alt="Linux"></a>
-<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+    <a href="https://www.linux.org/" target="_blank">
+        <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux">
+    </a>
+    <a href="https://www.linux.org/" target="_blank">
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" alt="Linux">
+    </a>
+    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
+    <a href="https://code.visualstudio.com/" target="_blank">
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode">
+    </a>
+    <a href="https://www.sublimetext.com/" target="_blank">
+        <img height="40" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="Sublime Text">
+    </a>
+    <a href="https://neovim.io/" target="_blank">
+        <img height="40" src="https://neovim.io/logos/neovim-mark.png" alt="NeoVim">
+    </a>
 </div>
+
+
 
 ## 📈 GitHub Stats  
 
