@@ -1,7 +1,3 @@
-
-
-
-
 <h1>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?color=FFEA00&size=25&lines=Hello+There!!!..">
@@ -33,19 +29,24 @@
 <a href="https://auth.geeksforgeeks.org/user/asim_ar007/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/asim_ar007/practice" height="30" width="40" /></a>
 </p>
 <br>
-<p align="right">
 
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=asimar007&show_icons=true&include_all_commits=true&bg_color=151515&title_color=ffff&text_color=fff9&icon_color=52CB61&hide=issues,stars" />
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimar007&theme=2077)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimar007&theme=2077)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimar007&bg_color=151515&title_color=ffff&text_color=fff9&layout=compact" />
-  
-<br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=asimar007&theme=2077)
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=asimar007&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asimar007&theme=2077)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asimar007&theme=2077&utcOffset=6)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asimar007&layout=compact&theme=algolia&langs_count=20&hide_border=true)](https://github.com/asimar007/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=asimar007&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=asimar007&theme=dracula)](https://github.com/asimar007/github-profile-trophy)
+
+<br />
 
 
 # 💻Tech Stack
