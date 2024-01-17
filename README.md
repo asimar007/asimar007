@@ -3,10 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=FFEA00&size=25&lines=Hello+There!!!..">
   </a>
 </h1>
-
+ <picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif?raw=true" width = 250px></picture>
   <img src="https://komarev.com/ghpvc/?username=asimar007" width=160px/>
   <br>
-  <picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif?raw=true" width = 250px></picture>
 - 🌱 I’m currently learning **Blockchain**
   
 - 👯 I’m looking to collaborate on **Open source Projects.**
