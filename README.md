@@ -1,33 +1,38 @@
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=FFEA00&size=25&lines=Hello+There!!!..">
-  </a>
-</h1>
+ ##  <picture><img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/about_me.gif?raw=true" width = 50px></picture> About me
+
  <picture> <img align="right" src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/programming.gif?raw=true" width = 250px></picture>
   <img src="https://komarev.com/ghpvc/?username=asimar007" width=160px/>
   <br>
-- 🌱 I’m currently learning **Blockchain**
+  
+- 🌱 I’m currently learning **Backend**
   
 - 👯 I’m looking to collaborate on **Open source Projects.**
+- 💼All about me is at **[Portfolio](https://asimsk.netlify.app/)**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/asimar007?tab=repositories)
-
-- 📫 How to reach me [Linkendin](https://www.linkedin.com/in/asimar007/)
+- Reach me: <a href="mailto:asimsk777@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-asimsk777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
   
+<div align="center">
+<h3> <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/bar.gif?raw=true" width="30" height="30" style="margin-right: 10px;">Connect With Me<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Handshake.gif?raw=true" width="60">
+</h3> 
+<p align="center">
+    <a href="https://www.linkedin.com/in/asimar007/" target="_blank"><img alt="LinkedIn" width="30px" src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000"></a>
+    <a href="https://x.com/asim_ar007" target="_blank"><img alt="X" width="28px" src="https://img.icons8.com/?size=100&id=13963&format=png&color=000000"></a>
+  <a href="mailto:asimsk777@gmail.com"><img alt="Gmail" width="28px" src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000"></a>
+</p></div>
+<div align="center">
+<h3><picture> <img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/CP_PS.gif?raw=true" width = 50px></picture>Competitive Programming & Problem Solving<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/colaborate.gif?raw=true" width="60">
+</h3>
+<p align="center">
+    &emsp;
+    <a href="https://leetcode.com/u/asim_ar007/"><img alt = "Leetcode" src="https://img.shields.io/badge/LeetCode%20-%23FFA116.svg?style=plastic&logo=leetcode&logoColor=black" /></a>
+     &emsp;
+    <a href="https://www.geeksforgeeks.org/user/asim_ar007/"><img alt = "Hackerrank" src="https://img.shields.io/badge/GeekforGeeks-%232EC866.svg?style=plastic&logo=geekforgeeks&logoColor=black" /></a>
+    &emsp;
+    <a href="https://www.hackerrank.com/profile/asim_ar007"><img alt = "Hackerrank" src="https://img.shields.io/badge/HackerRank-%232EC866.svg?style=plastic&logo=hackerrank&logoColor=black" /></a>
+</p></div>
+
 ##
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/asim_ar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asim_ar007" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/asimar007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asimar007/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20592479/asim-ar007?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20592479/asim-ar007?tab=profile" height="30" width="40" /></a>
-<a href="https://www.facebook.com/asimar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/asimar007" height="30" width="40" /></a>
-<a href="https://www.instagram.com/asim_ar007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/asim_ar007/" height="30" width="40" /></a>
-<a href="https://leetcode.com/asim_ar007/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="https://leetcode.com/asim_ar007/" height="30" width="70" /></a>
-<a href="https://medium.com/@asimsk757" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@asimsk757" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asim_ar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/asim_ar007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asim_ar007/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/asim_ar007/practice" height="30" width="40" /></a>
-</p>
-<br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asimar007&theme=2077)
 
@@ -74,7 +79,6 @@
     <a href="https://www.linux.org/" target="_blank">
         <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Apple_logo_white.svg/800px-Apple_logo_white.svg.png" alt="Linux">
     </a>
-    <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">
     <a href="https://code.visualstudio.com/" target="_blank">
         <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="VSCode">
     </a>
@@ -96,7 +100,3 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=asimar007&theme=dracula)](https://github.com/asimar007/github-profile-trophy)
-
-
-## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asim_ar007/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asimar007/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/asim_ar007) 
