@@ -11,7 +11,9 @@
 - 💼 All about me is at <a href="https://asimsk.netlify.app/" target="_blank">Portfolio</a>
 
 - Reach me: <a href="mailto:asimsk777@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-asimsk777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+
   ##
+  
 <div align="center">
 <h3> <img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/bar.gif?raw=true" width="30" height="30" style="margin-right: 10px;">Connect With Me<img src="https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/Handshake.gif?raw=true" width="60">
 </h3> 
