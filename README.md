@@ -7,9 +7,9 @@
 - 🌱 I’m currently learning **Backend**
   
 - 👯 I’m looking to collaborate on **Open source Projects.**
-- 💼All about me is at **[Portfolio](https://asimsk.netlify.app/)**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/asimar007?tab=repositories)
+- 💼 All about me is at <a href="https://asimsk.netlify.app/" target="_blank">Portfolio</a>
+
 - Reach me: <a href="mailto:asimsk777@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-asimsk777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
   ##
 <div align="center">
