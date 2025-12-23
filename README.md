@@ -8,7 +8,7 @@
   
 - 👯 I’m looking to collaborate on **Open source Projects.**
 
-- 💼 All about me is at <a href="https://asimsk.online/" target="_blank">Portfolio</a>
+- 💼 All about me is at <a href="https://asimsk.site/" target="_blank">Portfolio</a>
 
 - Reach me: <a href="mailto:asimsk777@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-asimsk777@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 
