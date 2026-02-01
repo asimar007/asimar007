@@ -25,12 +25,12 @@
 </p></div>
 
 ##
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimar007&theme=2077" alt="Repos per Language" width="400"/>
-	<a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=asimar007&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-      </a>
-</div>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=asimar007&theme=2077" alt="Repos per Language" height="195"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=asimar007&theme=cobalt&hide_border=true&border_radius=50&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" height="195"/>
+  </a>
+</p>
 <br />
 
 ## 📈 GitHub Stats  
