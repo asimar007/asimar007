@@ -1,4 +1,4 @@
-<picture><img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/about_me.gif?raw=true" width = 50px></picture> Hi, I'm Asim 👋
+# <picture><img src = "https://github.com/MD-MAFUJUL-HASAN/awesome-github-profile-readme-templates/blob/main/Gif%20Files/about_me.gif?raw=true" width = 50px></picture> Hi, I'm Asim 👋
 
 <img src="https://komarev.com/ghpvc/?username=asimar007" width=160px/>
 
