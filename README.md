@@ -7,6 +7,7 @@
 ## Current Projects
 
 -   🤖 **[No Commit](https://nocommit.asimsk.site/)** - AI writes your git commit messages. Just run `nocommit`.
+-   🧘 **[ZenX](https://zenx.asimsk.site/)** - Block noise on X. Filter politics, hate, controversy, and custom keywords.
 -   🪣 **[S3 Buddy](https://s3buddy.icu/)** - Secure web UI for managing S3 buckets.
 -   🗺️ **[OutageMap](https://outagemap.vercel.app/)** - Real-time internet outage visualizer.
 -   🧠 **[Semantix AI](https://www.semantix.icu/)** - Semantic search that understands meaning, not just keywords.
