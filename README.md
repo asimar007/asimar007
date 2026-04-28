@@ -55,7 +55,7 @@
 
 ### Recognition
 
-- **5000+ NPM downloads** for No Commit — used by developers worldwide
+- **12,000+ NPM downloads** for No Commit — used by developers worldwide
 - **AWS Certified Cloud Practitioner**
 - **450+ LeetCode problems solved** (100-Days Badge 2024)
 - MCA graduate with **CGPA 8.37** from New Horizon College of Engineering
